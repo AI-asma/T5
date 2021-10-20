@@ -21,10 +21,10 @@ I will use Classification algorithms of supervised learning. There are many diff
 
 ### &nbsp;&nbsp;&nbsp; Libraries used
 
-> *  [Pandas](http://pandas.pydata.org) 0.18.0
-> *  [Numpy](http://www.numpy.org) 1.10.4
-> *  [Matplotlib](https://matplotlib.org) 1.5.1
-> *  [Scikit-learn](http://scikit-learn.org/stable/) 0.17.1
+> *  [Pandas](http://pandas.pydata.org) 1.3.4
+> *  [Numpy](http://www.numpy.org) 1.21.2
+> *  [Matplotlib](https://matplotlib.org) 3.4.3
+> *  [Scikit-learn](http://scikit-learn.org/stable/) 0.24.2
 
 ## Code
 
