@@ -25,13 +25,3 @@ I will use Classification algorithms of supervised learning. There are many diff
 > *  [Numpy](http://www.numpy.org) 1.21.2
 > *  [Matplotlib](https://matplotlib.org) 3.4.3
 > *  [Scikit-learn](http://scikit-learn.org/stable/) 0.24.2
-
-## Code
-
-Each algorithm tested (or version of it) has its own separate .ipynb file. Each file has its name to tell you what algorithm is used.
-
-## Run
-
-To run this project you will need some software, like Anaconda, which provides support for running .ipynb files (Jupyter Notebook).
-
-After making sure you have that:
