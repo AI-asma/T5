@@ -10,7 +10,7 @@ In this project, I going to use machine learning techniques to help in the early
 This is Wisconsin Dataset for breast cancer but you will find it inside the root folder of this project.
 
 ## Algorithms
-I will use Classification algorithms of supervised learning. There are many different classification models in machine learning: 
+I used Classification algorithms of supervised learning. There are many different classification models in machine learning: 
 > *  Logistic Regression.
 > *  K-Nearest Neighbor.
 > *  Random Forest Classification.
