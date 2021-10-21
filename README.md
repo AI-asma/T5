@@ -31,7 +31,7 @@ After applying the different classification models, I got the accuracies with di
 > *  1. Logistic Regression 0.95%
 > *  2. Nearest Neighbors 0.96%
 > *  3. Random Forest Classification 0.99%
-> Random Forest Classification gave the best results for this dataset
+### Random Forest Classification gave the best results for this dataset
 
 
 
