@@ -25,3 +25,14 @@ I used Classification algorithms of supervised learning. There are many differen
 > *  [Numpy](http://www.numpy.org) 1.21.2
 > *  [Matplotlib](https://matplotlib.org) 3.4.3
 > *  [Scikit-learn](http://scikit-learn.org/stable/) 0.24.2
+
+## Results:
+After applying the different classification models, I got the accuracies with different models below:
+> *  1. Logistic Regression 0.95%
+> *  2. Nearest Neighbors 0.96%
+> *  3. Random Forest Classification 0.99%
+> Random Forest Classification gave the best results for this dataset
+
+
+
+
